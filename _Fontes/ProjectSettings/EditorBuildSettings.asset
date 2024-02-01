@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1338aa26b74682345a31aa5346fd5d4e
+  - enabled: 1
+    path: Assets/Scenes/SelecaoFases.unity
+    guid: 323f4005cd051ab4bb3022c113f084f0
+  - enabled: 1
+    path: Assets/Scenes/FaixaPedestre.unity
+    guid: 79b9114bcfc5c4548a741603b5783f5e
+  - enabled: 1
+    path: Assets/Scenes/Patinete.unity
+    guid: fd1c8a867138df54f9fa8c65b7733ca6
+  - enabled: 1
+    path: Assets/Scenes/Acidente.unity
+    guid: 72fe8cfae2c8b024590c1ba45ee587f5
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: b57657cda80f83d4589068ab53ec5d02, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6af2a16004162c047b5ff8af15792f53, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5f127e08622fab74bbb7b78a4437fe33, type: 2}
